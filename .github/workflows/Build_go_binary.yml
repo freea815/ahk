@@ -41,7 +41,7 @@ jobs:
             goarm: ""
             filename: gows_freebsd_amd64
           - os: ubuntu-latest
-            goos: freebsda
+            goos: freebsd
             goarch: arm64
             goarm: ""
             filename: gows_freebsd_arm64
